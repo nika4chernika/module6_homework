@@ -1,6 +1,7 @@
 
-function getAmount(arr) {
 let arr = [1, 1, 3, 4, 5, 7, null];    
+
+function getAmount(arr) {
 let zeroCount = 0;
 let evenCount = 0;
 let oddCount = 0;
